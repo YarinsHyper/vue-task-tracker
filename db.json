@@ -23,6 +23,12 @@
       "text": "go to dinner",
       "day": "march 10th at 3:00",
       "reminder": false
+    },
+    {
+      "text": "sleep",
+      "day": "September 15h at 2:30pm",
+      "reminder": true,
+      "id": 89689
     }
   ]
 }
